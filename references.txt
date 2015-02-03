@@ -1,0 +1,6 @@
+I have resorted to the following resources for help:
+1) Git Reference:    http://gitref.org/
+2) Google
+3) Khan Academy Computer Programming: https://www.khanacademy.org/computing/computer-programming
+4) Piazza
+5) One-on-one tutoring and office hours with Udacity coaches.
