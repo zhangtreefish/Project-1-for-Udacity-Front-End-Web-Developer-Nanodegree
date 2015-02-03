@@ -1,0 +1,41 @@
+* {
+font-family: Verdana,sans-serif;
+    }
+h1 {
+	color: #666666;
+	font-size: 48px;
+	margin-top:45px;
+	}
+h2 {
+	color: #F07C17;
+	font-weight: bold;
+	font-size: 24px;
+    margin-bottom: 15px;
+	padding-bottom: 15px;
+	}
+.brief-intro {
+	margin-top: 28px;
+	border:1px solid #CCCCCC;
+	padding: 11px 20px 33px 30px;
+    }
+.the-mug {
+	margin-top: 22px;
+    }
+
+ul {
+	font-size: 16px;
+    font-weight: 550;
+	line-height: 2;
+	color: #666666;
+	margin: 15px 0px 4px 0px;
+    }
+ p {
+	font-size: 16px;
+    font-weight: 580;
+	line-height: 2;
+	color: #666666;
+	margin-top: 11px;
+	}
+
+
+
