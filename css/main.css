@@ -4,47 +4,47 @@
 }
 
 h1 {
-	color: #666;
-	font-size: 48px;
-	margin-top:45px;
+    color: #666;
+    font-size: 48px;
+    margin-top:45px;
 }
 
 h2 {
-	color: #f07c17;
-	font-weight: bold;
-	font-size: 24px;
+    color: #f07c17;
+    font-weight: bold;
+    font-size: 24px;
     margin-bottom: 15px;
-	padding-bottom: 15px;
+    padding-bottom: 15px;
 }
 
 /*for the image and the legend*/
 .brief-intro {
-	margin-top: 28px;
-	border:1px solid #ccc;
-	padding: 11px 20px 33px 30px;
+    margin-top: 28px;
+    border:1px solid #ccc;
+    padding: 11px 20px 33px 30px;
 }
 
 /*for the image */
 .the-mug {
-	margin-top: 22px;
+    margin-top: 22px;
 }
 
 /*for the legend */
 ul {
-	font-size: 16px;
+    font-size: 16px;
     font-weight: normal;
-	line-height: 2;
-	color: #666;
-	margin: 15px 0 4px 0;
+    line-height: 2;
+    color: #666;
+    margin: 15px 0 4px 0;
 }
 
 /*for the main text */
 p {
-	font-size: 16px;
+    font-size: 16px;
     font-weight: normal;
-	line-height: 2;
-	color: #666;
-	margin-top: 11px;
+    line-height: 2;
+    color: #666;
+    margin-top: 11px;
 }
 
 
