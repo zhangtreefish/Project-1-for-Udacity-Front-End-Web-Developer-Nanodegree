@@ -1,3 +1,5 @@
+Here I turned a designer’s mockup into the semantic HTML and CSS that browsers render. I achieved a 2.44% mismatch between the markup and the page.
+
 I have resorted to the following resources for help:
 
 1) Git Reference:    http://gitref.org/
