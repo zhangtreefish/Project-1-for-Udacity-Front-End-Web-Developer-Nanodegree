@@ -1,0 +1,74 @@
+ .mockup-bottomlay {
+       top: 0;
+       position: absolute;
+       z-index: -1;
+        opacity: .2;
+               }
+
+
+
+h1 {
+	color: #666666;
+	font-size: 48px;
+	margin-top:45px;
+	font-family: Verdana;
+	}
+
+
+h2 {
+	font-family: Verdana;
+	color: #F07C17;
+	font-weight: bold;
+	font-size: 24px;
+	margin-bottom: 15px;
+	padding-bottom: 14px;
+	}
+.row {
+    display:flex;
+    flex-wrap: nowrap;
+        }
+
+.left-column {
+	margin: 20px 0px 30px 0px;
+    }
+
+
+.brief-intro {
+	margin: 36px 0px 0px 0px;
+	border:1px solid #CCCCCC;
+	padding: 11px 20px 33px 30px;
+}
+
+
+ul {
+	font-family: Verdana;
+	font-size: 16px;
+	font-weight: 530;
+	line-height: 1.99;
+	color: #666666;
+	margin: 0px 0px 5px 0px;
+	padding: 0px 20px 0px 40px;
+}
+
+
+
+.right-column {
+	margin: 0px 0px 0px 10px;
+	padding:0px 10px 0px 10px;
+}
+
+
+p {
+	font-family:Verdana;
+	font-size: 16px;
+	font-weight: 580;
+	line-height: 2;
+	color: #666666;
+	margin: 7px 2px 12px 0px;
+	}
+
+
+
+
+
+
